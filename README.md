@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+This is Kavya teegala .Currently pursuing my Bachelor of Technology at Lendi Engineering college . 
 <!--
 **kavyaTeegala/Kavyateegala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
